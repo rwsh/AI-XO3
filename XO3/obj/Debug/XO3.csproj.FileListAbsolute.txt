@@ -1,0 +1,13 @@
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\bin\Debug\XO3.exe.config
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\bin\Debug\XO3.exe
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\bin\Debug\XO3.pdb
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\MainWindow.g.cs
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\App.g.cs
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\XO3_MarkupCompile.cache
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\XO3_MarkupCompile.lref
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\MainWindow.baml
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\XO3.g.resources
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\XO3.Properties.Resources.resources
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\XO3.csproj.GenerateResource.Cache
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\XO3.exe
+c:\!programm\Dropbox\PROGRAMM\Искусственный интеллект\Игры\XO3\XO3\obj\Debug\XO3.pdb
